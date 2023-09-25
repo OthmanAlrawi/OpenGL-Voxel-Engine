@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(485,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(486,12): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(525,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(695,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(708,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(787,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(903,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(903,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(918,29): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(918,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(958,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(990,21): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(1025,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(4414,27): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Othman\source\repos\OpenGL\OpenGL\Source.cpp(876,42): message : see reference to function template instantiation '_OutIt *std::fill_n<float*,int,int>(_OutIt,const _Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+  OpenGL.vcxproj -> C:\Users\Othman\source\repos\OpenGL\x64\Debug\OpenGL.exe
